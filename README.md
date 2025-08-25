@@ -50,6 +50,7 @@
 ```bash
 # from repo root
 quarto render analysis/bulkRNAseq.qmd   # produces analysis/bulkRNAseq.pdf
+```
 
 If you don’t use Quarto, open the .qmd in RStudio and “Render”.
 
