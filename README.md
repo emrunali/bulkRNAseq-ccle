@@ -62,6 +62,4 @@ If you don’t use Quarto, open the .qmd in RStudio and “Render”.
 
 - Pathway biology: Run GSEA/ORA on DEGs (Hallmarks/Reactome) to formalize epithelial vs mesenchymal/metabolic programs.
 
-- Multi-omics: Integrate mutRate, MSI status, or CNAs if available to link genotype ↔ expression states.
-
 - Generalization: Cross-validate with TCGA COAD/READ and other colon cell-line panels.
