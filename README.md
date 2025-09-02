@@ -1,6 +1,6 @@
 # CCLE Colon (Large Intestine) RNA-seq: PCA, Clustering, and DESeq2
 
-**Goal.** Explore biologically distinct groups within colon cancer cell lines using bulk RNA-seq, and identify gene programs that separate those groups. :contentReference[oaicite:0]{index=0}
+**Goal.** Explore biologically distinct groups within colon cancer cell lines using bulk RNA-seq, and identify gene programs that separate those groups.
 
 ---
 
