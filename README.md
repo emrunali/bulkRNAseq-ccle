@@ -39,7 +39,7 @@
 - Unsupervised clustering using `DESeq2` split cell lines into two broad states:
   - **Cluster 1 (stromal/mesenchymal-leaning signals):** up in *SGIP1, PDPN, COL3A1, PTN, ANGPTL2, GDF6, KRTAP1-5, PODN, GNAT3, NTM*.
   - **Cluster 2 (epithelial/differentiated):** up in *SLC26A3, OLFM4, GPA33, FABP1, TINAG, UGT1A10, SPINK4, MUC17, PIGR, MOGAT2*.
-- No single metadata field (sex, pathology, TCGA code) fully explained the variance—supporting a **transcriptional state** separation rather than a labeled covariate. :contentReference[oaicite:1]{index=1}
+- No single metadata field (sex, pathology, TCGA code) fully explained the variance—supporting a **transcriptional state** separation rather than a labeled covariate.
 
 ---
 
